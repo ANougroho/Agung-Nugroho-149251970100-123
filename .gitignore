@@ -1,6 +1,9 @@
-Project Pertama - Agung Nugroho/Library/* 
-Project Pertama - Agung Nugroho/Logs/* 
-Project Pertama - Agung Nugroho/Temp/* 
+Library/* 
+Logs/* 
+Temp/* 
+.vs/* 
+obj/* 
  
-Project Pertama - Agung Nugroho/.vsconfig 
-Project Pertama - Agung Nugroho/*.sln 
+.vsconfig 
+*.sln 
+*.csproj 
